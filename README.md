@@ -1,5 +1,3 @@
-# gatsby-contentful-starter
-
 Gatsby [Contentful](https://www.contentful.com) starter for creating a blog
 
 ## Usage
