@@ -59,7 +59,6 @@ export const pageQuery = graphql`
               srcSet
               srcSetWebp
               srcWebp
-              tracedSVG
             }
           }
           description {
